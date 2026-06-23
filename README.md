@@ -1,3 +1,9 @@
+# Code the Jackpot
+The companion website for the book Code the Jackpot (available on Amazon): a polished landing page, a lab blog, and two data-analysis "labs" that apply the book's methods to the public draw histories of a European 5/50 draw and the Greek Joker 5/45 draw.
+
+Independent educational project. This site is not a lottery, not a betting service, and is not affiliated with or endorsed by any lottery operator. It sells no tickets and makes no promise of winnings. The tools here are statistical study aids only.
+
+
 # Code the Jackpot - book code listings
 
 Python extracted from the manuscript, by chapter/appendix, in book order. Nothing truncated.
